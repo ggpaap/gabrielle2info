@@ -2,6 +2,6 @@
 export default {};
 </script>
 <template>
-  <footer id="footer">Rodape</footer>
+  <footer id="footer"></footer>
 </template>
 <style></style>

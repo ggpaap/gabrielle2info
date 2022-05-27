@@ -15,7 +15,7 @@ body {
 }
 
 #header, #content, #sidenav, #footer {
-  border: 1px solid green;
+  border: 1px solid rgb(66, 8, 8);
 }
 
 #header {
@@ -36,15 +36,18 @@ body {
 .block {
   width: 300px;
   height: 300px;
-  border: 1px solid blue;
+  border: 3px solid #8285aa;
   border-radius: 15px;
   padding: 20px;
   margin: 10px;
+  background-color: rgb(255, 246, 223);
+  
+  
 }
 .blokead{
   width: 300px;
   height: 300px;
-  border: 10px solid violet;
+  border: 3px solid #8e95e6;
   border-radius: 15px;
   padding: 20px;
   margin: 10px

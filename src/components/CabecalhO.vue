@@ -2,6 +2,6 @@
 export default {};
 </script>
 <template>
-  <header id="header">Cabeçalho</header>
+  <header id="header">Lista de músicas</header>
 </template>
 <style></style>
